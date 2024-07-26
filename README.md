@@ -57,9 +57,7 @@ I hope this helps you get a specific Color HexCode from anywhere you want.
 
 **Video Demonstration**
 
-https://github.com/RiyaHablani/color-picker-chrome-extension/issues/1#issue-2432989935
-
-
+https://github.com/user-attachments/assets/01c90ae5-ad0d-4818-ae5c-74d4b1591771
 
 Always ready for any kind of Guidance/support and Help.
 
