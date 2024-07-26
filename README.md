@@ -30,6 +30,10 @@ This JavaScript application enables users to select colors from their screen usi
 6. **Remove Existing Extensions** (if needed):
    - If you have an older version of the extension or a conflicting one, click **"Remove"** next to the extension to uninstall it.
 
+## Screenshot
+
+![Screenshot 1](images/screenshot1.png)
+
 7. **Verify Installation**:
    - Check that the extension appears in the list of installed extensions and is functioning as expected.
 
