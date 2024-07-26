@@ -29,11 +29,17 @@ This JavaScript application enables users to select colors from their screen usi
 
 ## 📸 Screenshots
 1. **Turn on Developer mode**:
+
    ![Screenshot](images/Screenshort1.jpg)
+
 2. **Click on Load unpacked**:
+
    ![Screenshot](images/Screenshort2.jpg)
+
 3. **Select color-picker-chrome-extension folder**:
+
    ![Screenshot](images/Screenshort3.png)
+
 
 ## 🔍 Verify Installation
 - Check that the extension appears in the list of installed extensions and is functioning as expected.
