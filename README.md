@@ -27,9 +27,6 @@ This JavaScript application enables users to select colors from their screen usi
    - Click the **"Load unpacked"** button.
    - Select the folder where you extracted or cloned the repository. This folder should contain the `manifest.json` file.
 
-6. **Remove Existing Extensions** (if needed):
-   - If you have an older version of the extension or a conflicting one, click **"Remove"** next to the extension to uninstall it.
-
 ## 📸 Screenshots
 1. **Turn on Developer mode**:
    ![Screenshot](images/Screenshort1.jpg)
