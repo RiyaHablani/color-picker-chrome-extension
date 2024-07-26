@@ -32,7 +32,7 @@ This JavaScript application enables users to select colors from their screen usi
 
 ## Screenshot
 
-![Screenshot 1](images/Screenshot1.jpg)
+![Screenshot1](images/Screenshot1.jpg)
 
 7. **Verify Installation**:
    - Check that the extension appears in the list of installed extensions and is functioning as expected.
