@@ -13,8 +13,8 @@ This JavaScript application enables users to select colors from their screen usi
      git clone https://github.com/RiyaHablani/color-picker-chrome-extension.git
      ```
 
-2. **Open Google Chrome**:
-   - Launch Google Chrome on your computer.
+2. **Open Browser**:
+   - Open Google Chrome or Microsoft Edge on your computer.
 
 3. **Navigate to Extensions**:
    - Open Chrome’s settings by clicking the three vertical dots (menu) in the top-right corner of the browser.
