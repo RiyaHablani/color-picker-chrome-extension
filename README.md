@@ -10,7 +10,7 @@ This JavaScript application enables users to select colors from their screen usi
    - 📥 Download the `.zip` file from the repository and extract it to your local system.
    - 🖥️ Alternatively, clone the repository using Git:
      ```bash
-     git clone git@github.com:codeAlok/color-picker-chrome-extension.git
+     git clone https://github.com/RiyaHablani/color-picker-chrome-extension.git
      ```
 
 2. **Open Google Chrome**:
