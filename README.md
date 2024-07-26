@@ -30,10 +30,13 @@ This JavaScript application enables users to select colors from their screen usi
 6. **Remove Existing Extensions** (if needed):
    - If you have an older version of the extension or a conflicting one, click **"Remove"** next to the extension to uninstall it.
 
-## Screenshot
-
-![Turn on Developer mode](images/Screenshort1.jpg)
-
+## Screenshots
+  (i)Turn on Developer mode
+  ![Screeshot](images/Screenshort1.jpg)
+   (ii)Click on Load unpacked
+   ![Screenshot](images/Screenshort2.jpg)
+   (iii)Select color-picker-chrome-extension folder
+   ![Screenshot](images/Screenshort3.jpg)
 7. **Verify Installation**:
    - Check that the extension appears in the list of installed extensions and is functioning as expected.
 
