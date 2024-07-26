@@ -53,11 +53,11 @@ This JavaScript application enables users to select colors from their screen usi
 5. Paste it anywhere to use the HexCode (already copied to the clipboard).
 
 I hope this helps you get a specific Color HexCode from anywhere you want.
-### Watch as it automates solving challenges on HackerRank.
+### Watch it.
 
 **Video Demonstration**
 
-https://github.com/RiyaHablani/color-picker-chrome-extension/issues
+https://github.com/RiyaHablani/color-picker-chrome-extension/issues/1#issue-2432989935
 
 
 
