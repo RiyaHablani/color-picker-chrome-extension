@@ -2,6 +2,11 @@
 
 This JavaScript application enables users to select colors from their screen using the EyeDropper API. It displays the picked colors in a list, allows copying color values to the clipboard, exports the colors as a text file, and provides functionality to clear all saved colors. The picked colors are stored in local storage to persist between sessions.
 
+### Watch it
+**Video Demonstration**
+
+https://github.com/user-attachments/assets/01c90ae5-ad0d-4818-ae5c-74d4b1591771
+
 ## 🚀 Installation Instructions
 
 **Follow These Steps to Use This Extension:**
@@ -53,11 +58,6 @@ This JavaScript application enables users to select colors from their screen usi
 5. Paste it anywhere to use the HexCode (already copied to the clipboard).
 
 I hope this helps you get a specific Color HexCode from anywhere you want.
-### Watch it.
-
-**Video Demonstration**
-
-https://github.com/user-attachments/assets/01c90ae5-ad0d-4818-ae5c-74d4b1591771
 
 Always ready for any kind of Guidance/support and Help.
 
